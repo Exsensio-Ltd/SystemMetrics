@@ -1,0 +1,9 @@
+[submodule "OEEGrafanaVisualizer"]
+	path = OEEGrafanaVisualizer
+	url = https://github.com/Exsensio-Ltd/OEEGrafanaVisualizer
+[submodule "OEEMicroservice"]
+	path = OEEMicroservice
+	url = https://github.com/Exsensio-Ltd/OEEMicroservice
+[submodule "OEEDataModel"]
+	path = OEEDataModel
+	url = https://github.com/Exsensio-Ltd/OEEDataModel
