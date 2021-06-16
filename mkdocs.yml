@@ -1,0 +1,19 @@
+site_name: OEE sdk
+site_url: https://github.com/Exsensio-Ltd/SystemMetrics
+repo_url: https://github.com/Exsensio-Ltd/SystemMetrics
+site_description: RAMP Documentation
+docs_dir: docs
+site_dir: html
+edit_uri: edit/master/doc/
+markdown_extensions: [toc,fenced_code]
+use_directory_urls: false
+theme: readthedocs
+pages:
+  - Home: 'index.md'
+  - 'Getting Started' : 'getting-started.md'
+  - 'User & Programmers Manual':
+    - 'Architecture' : 'architecture.md'
+    - 'API' : 'api.md'
+    - 'User Guide': 'usermanual.md'
+  - 'Installation & Administration Manual':
+    - 'Installation Guide': 'installationguide.md'
