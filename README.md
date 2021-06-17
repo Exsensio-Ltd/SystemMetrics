@@ -5,17 +5,15 @@ the microservice allows you to capture and analyze OEE of Station / cell in Manu
 
 The vision here is that no matter what the product or the station in the prodcution line , we will be able to capture the OEE and this value will help the operation mangers see the bottle necks int the production line and also usage of the equipments .
 
-## Contents
+## Install
 
--   [Background](#background)
--   [Architecture](#architecture)
--   [Usage](#usage)
--   [OEEMicroservice](#oeemicroservice)
--   [OEEGrafanaVisualizer](oeegrafanavisualizer)
--   [OEEDataModel](oeedatamodel)
--   [License](#license)
+To download the full set of tutorials, simply clone this repository:
 
-## Background
+```console
+git clone https://github.com/FIWARE/tutorials.Step-by-Step.git
+cd tutorials.Step-by-Step/
+git submodule update --init --recursive
+```
 
 ## Architecture
 
@@ -49,6 +47,25 @@ OEE Data Model is represent the data that can be used in [OEEMicroservice](https
 
 | :books: [OEEDataModel<br>Documentation](https://github.com/Exsensio-Ltd/OEEDataModel) |
 | -------------------------------------------------------------------- |
+
+## Install
+
+To download the full set of projects, simply clone this repository:
+
+```console
+git clone https://github.com/Exsensio-Ltd/SystemMetrics.git
+cd SystemMetrics/
+git submodule update --init --recursive
+```
+
+The **OEEMicroservice** and **OEEGrafanaVisualizer** projects are then available under the `OEEMicroservice` and `OEEGrafanaVisualizer` directories respectively.
+
+### Postman <img src="https://www.postman.com/favicon-32x32.png" align="left"  height="30" width="30">
+
+The tutorials which use HTTP requests supply a collection for use with the Postman utility. Postman is a testing
+framework for REST APIs. The tool can be downloaded from [www.getpostman.com](www.getpostman.com). All the OEEMicroservice
+Postman collections can downloaded directly from the
+[Postman API network](https://documenter.getpostman.com/view/16273471/TzeWJ91y)
 
 ## License
 
