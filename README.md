@@ -63,7 +63,7 @@ The **OEEMicroservice** and **OEEGrafanaVisualizer** projects are then available
 ### Postman <img src="https://www.postman.com/favicon-32x32.png" align="left"  height="30" width="30">
 
 The tutorials which use HTTP requests supply a collection for use with the Postman utility. Postman is a testing
-framework for REST APIs. The tool can be downloaded from [www.getpostman.com](www.getpostman.com). All the OEEMicroservice
+framework for REST APIs. The tool can be downloaded from [www.postman.com/](https://www.postman.com/). All the OEEMicroservice
 Postman collections can downloaded directly from the
 [Postman API network](https://documenter.getpostman.com/view/16273471/TzeWJ91y)
 
