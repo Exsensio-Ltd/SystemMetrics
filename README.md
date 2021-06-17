@@ -5,16 +5,6 @@ the microservice allows you to capture and analyze OEE of Station / cell in Manu
 
 The vision here is that no matter what the product or the station in the prodcution line , we will be able to capture the OEE and this value will help the operation mangers see the bottle necks int the production line and also usage of the equipments .
 
-## Install
-
-To download the full set of tutorials, simply clone this repository:
-
-```console
-git clone https://github.com/FIWARE/tutorials.Step-by-Step.git
-cd tutorials.Step-by-Step/
-git submodule update --init --recursive
-```
-
 ## Architecture
 
 Defenition of the architecture:
