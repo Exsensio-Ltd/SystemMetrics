@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/Exsensio-Ltd/SystemMetrics)
+
 # Key Performance Indicators in Automation Systems for Manufacturing
 
 In Manufacturing Operations we have key index's that is worthwhile monitoring , One such index is the OEE which stands for Overall Equipment Effectiveness . This is one of the most favourite measurement in the manufacturing operations , OEE index is an indicator for the efficency for work units or the entire work center.
