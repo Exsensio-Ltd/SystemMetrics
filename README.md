@@ -48,7 +48,7 @@ The plugin built with React.js for Grafana Panel and provides representation of 
 OEE Data Model is represent the data that can be used in [OEEMicroservice](https://github.com/Exsensio-Ltd/OEEMicroservice) that is directly communicate with Fiware context broker.
 
 | :books: [OEEDataModel<br>Documentation](https://github.com/Exsensio-Ltd/OEEDataModel) |
-| -------------------------------------------------------------------- | --- |
+| -------------------------------------------------------------------- |
 
 ## License
 
