@@ -1,3 +1,6 @@
+![Screenshot](img/SystemMetrics_Cover.png)
+
+
 # Key Performance Indicators in Automation Systems for Manufacturing
 
 ![GitHub](https://img.shields.io/github/license/Exsensio-Ltd/SystemMetrics)
