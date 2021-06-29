@@ -10,6 +10,7 @@ the microservice allows you to capture and analyze OEE of Station / cell in Manu
 
 The vision here is that no matter what the product or the station in the prodcution line , we will be able to capture the OEE and this value will help the operation mangers see the bottle necks int the production line and also usage of the equipments .
 
+
 ## Architecture
 
 Defenition of the architecture:
@@ -26,14 +27,14 @@ Information about how to use the OEE sdk can be found in the [User & Programmers
 
 The microservice allows you to capture and analyze OEE of Station / cell in Manufacturing line. This Microservice can be used with existing software systems along with orion context broker. The Graphana Pluggin allows you to visually the OEE Metric (Availablity, Quality and Performance indicators) by a given station and a given product.
 
-| :movie_camera: [Introduction<br>to OEEMicroservice](https://youtu.be/ExoQgXBQ5n4?t=65) | :books: [OEEMicroservice Tutorial<br>Documentation](https://github.com/Exsensio-Ltd/OEEMicroservice) |
+| :movie_camera: [OEEMicroservice](https://youtu.be/ExoQgXBQ5n4?t=65) | :books: [OEEMicroservice Tutorial<br>Documentation](https://github.com/Exsensio-Ltd/OEEMicroservice) |
 | -------------------------------------------------------------------- | --- |
 
 ## OEEGrafanaVisualizer
 
 The plugin built with React.js for Grafana Panel and provides representation of the results of OEE (Overall Equipment Effectiveness) for specific device in bar chart and additionnaly lines for `Availability`, `Performance`, `Quality`.
 
-| :movie_camera: [Introduction<br>to OEEGrafanaVisualizer](https://youtu.be/ExoQgXBQ5n4?t=235) | :books: [OEEGrafanaVisualizer<br>Documentation](https://github.com/Exsensio-Ltd/OEEGrafanaVisualizer) |
+| :movie_camera: [OEEGrafanaVisualizer](https://youtu.be/ExoQgXBQ5n4?t=235) | :books: [OEEGrafanaVisualizer<br>Documentation](https://github.com/Exsensio-Ltd/OEEGrafanaVisualizer) |
 | -------------------------------------------------------------------- | --- |
 
 ## OEEDataModel
@@ -61,6 +62,11 @@ The tutorials which use HTTP requests supply a collection for use with the Postm
 framework for REST APIs. The tool can be downloaded from [www.postman.com/](https://www.postman.com/). All the OEEMicroservice
 Postman collections can downloaded directly from the
 [Postman API network](https://documenter.getpostman.com/view/16273471/TzeWJ91y)
+
+## Youtube
+
+[![SYSTEM METRICS](http://img.youtube.com/vi/ExoQgXBQ5n4/0.jpg)](http://www.youtube.com/watch?v=ExoQgXBQ5n4 "System Metrics")
+
 
 ## License
 
