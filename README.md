@@ -5,10 +5,8 @@
 
 ![GitHub](https://img.shields.io/github/license/Exsensio-Ltd/SystemMetrics)
 
-In Manufacturing Operations we have key index's that is worthwhile monitoring , One such index is the OEE which stands for Overall Equipment Effectiveness . This is one of the most favourite measurement in the manufacturing operations , OEE index is an indicator for the efficency for work units or the entire work center.
-the microservice allows you to capture and analyze OEE of Station / cell in Manufacturing line. This Microservice can be used with existing software systems along with orion context broker. the Graphana Pluggin allows you to visualize the OEE Metric ( Availablity , Quality and Performance indicators) by a given station and a given product.
-
-The vision here is that no matter what the product or the station in the prodcution line , we will be able to capture the OEE and this value will help the operation mangers see the bottle necks int the production line and also usage of the equipments .
+In Manufacturing Operations we have key performance indexes that are worthwhile monitoring, One such index is the OEE which stands for Overall Equipment Effectiveness. This is one of the most favorite measurement in manufacturing operations, OEE index is an indicator of the efficiency for work units or the entire work center.
+the microservice allows you to capture and analyze the OEE of a station/cell in the Manufacturing line. you can easily integrate with existing system software using our APIs. the Graphana Plugin allows you to visualize the OEE Metric ( Availablity, Quality and Performance indicators) a station/cell for a given product in the production, this index will provide factory operation managers, maintenance engineers, and product owners clear visibility to the bottlenecks in production.
 
 
 ## Architecture
